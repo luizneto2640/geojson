@@ -1426,8 +1426,8 @@
       "type": "Feature",
       "properties": {
         "id": 3300159,
-        "name": "Aperib�",
-        "description": "Aperib�"
+        "name": "Aperibá",
+        "description": "Aperibá"
       },
       "geometry": {
         "type": "Polygon",
@@ -11345,9 +11345,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 3302007,
-        "name": "Itagua�",
-        "description": "Itagua�"
+        "name": "Itaguaí",
+        "description": "Itaguaí"
       },
       "geometry": {
         "type": "Polygon",
@@ -16946,6 +16951,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 3302858,
         "name": "Mesquita",
         "description": "Mesquita"
@@ -18038,9 +18048,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 3303203,
-        "name": "Nil�polis",
-        "description": "Nil�polis"
+        "name": "Nilópolis",
+        "description": "Nilópolis"
       },
       "geometry": {
         "type": "Polygon",
@@ -18947,9 +18962,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 3303500,
-        "name": "Nova Igua�u",
-        "description": "Nova Igua�u"
+        "name": "Nova Iguaçu",
+        "description": "Nova Iguaçu"
       },
       "geometry": {
         "type": "Polygon",
@@ -34734,9 +34754,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 3305554,
-        "name": "Serop�dica",
-        "description": "Serop�dica"
+        "name": "Seropédica",
+        "description": "Seropédica"
       },
       "geometry": {
         "type": "Polygon",
